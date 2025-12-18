@@ -43,7 +43,7 @@ AgentX/
 ├── src/
 │   └── agent.py         # LinUCB Reinforcement Learning logic
 ├── results/
-│   └── performance.png   # Evidence of learning curve
+│   └── performance.png  # Evidence of learning curve
 ├── app.py               # Main Streamlit Dashboard
 ├── demo.py              # Runnable CLI demo script
 ├── requirements.txt     # Dependency list
