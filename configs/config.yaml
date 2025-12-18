@@ -1,0 +1,9 @@
+agent_params:
+  n_actions: 5
+  context_dim: 6
+  alpha: 1.5 # Exploration-Exploitation trade-off
+
+env_params:
+  n_actions: 5
+  context_dim: 6
+  drift_speed: 0.1 # Rate of tactical change
